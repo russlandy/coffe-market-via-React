@@ -1,0 +1,10 @@
+.header {
+    background-image: url('../../../public/coffee-shop-bg.png');
+    color: aliceblue;
+    min-height: 260px;
+
+}
+h1 {
+    margin: auto;
+    text-align: center;
+}
